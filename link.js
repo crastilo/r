@@ -1,0 +1,1 @@
+const offerLink = "https://trck.securedcdsnt.com/smartlink/?a=159961&sm=18397&co=209017&mt=28&s1=rai_y"
